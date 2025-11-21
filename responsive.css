@@ -74,4 +74,50 @@
         gap: 1rem;
         text-align: left;
     }
+
+    .food-img{
+        display: none;
+    }
+
+    .our-benefit-sec{
+        display: flex;
+        text-align: left;
+        align-items: center;
+        justify-content: space-between;
+        padding: 2rem 6rem;
+    }
+
+    .our-benefit-sec h3{
+        font-size: 3.75rem;
+    }
+
+    .ms-Veggie-img{
+        display: none;
+    }
+
+    .ls-veggie-img{
+        display: block;    
+    }
+
+    .review-sec button{
+        width: 200px;
+        border-radius: 5px;
+    }
+
+    .reviews-item{
+        display: flex;
+        gap: 2rem;
+        text-align: center;
+    }
+
+    .review-sec{
+        display: flex;
+        justify-content: space-between;
+        text-align: left;
+        padding: 2rem 6rem;
+    }
+
+    .review-sec h3{
+        font-size: 3.75rem;
+    }
 }
