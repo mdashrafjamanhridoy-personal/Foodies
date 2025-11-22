@@ -79,6 +79,10 @@
         display: none;
     }
 
+    .food-img-ls{
+        display: block;
+    }
+
     .our-benefit-sec{
         display: flex;
         text-align: left;
@@ -120,4 +124,53 @@
     .review-sec h3{
         font-size: 3.75rem;
     }
+
+    .variety-of-veggie-foods{
+        text-align: left;
+        padding: 2rem 6rem;
+    }
+
+    .food-images{
+        width: fit-content;
+    }
+
+    .food-details{
+        width: 293px;
+        height: 293px;
+        box-sizing: border-box;
+        padding: 2rem;
+    }
+
+    .food-details h2{
+        margin-bottom: 1rem;
+    }
+
+    .food-details p{
+        margin-bottom: 2rem;
+    }
+
+    .flex{
+        display: flex;
+    }
+
+    .row-revers{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    .most-popular-product{
+        padding: 2rem 6rem;
+    }
+
+    .popular-products-section{
+        display: flex;
+        gap: 1rem;
+    }
+
+    .popular-products{
+        border-radius: 10px;
+    }
+
+    
+
 }
